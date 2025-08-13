@@ -212,14 +212,14 @@ colorama = {version = "*", markers = "platform_system == \"Windows\""}
 
 [[package]]
 name = "cognite-sdk"
-version = "7.75.1"
+version = "7.78.0"
 description = "Cognite Python SDK"
 optional = false
 python-versions = "<4.0,>=3.10"
 groups = ["main"]
 files = [
-    {file = "cognite_sdk-7.75.1-py3-none-any.whl", hash = "sha256:6ff7200e0e4a55e208ce82c86b76f2002943e9a42b51f62e91bc34998ae8e592"},
-    {file = "cognite_sdk-7.75.1.tar.gz", hash = "sha256:f026a621c737bbaf9be8bc503f9946c83333fa09769fa2c5dbc324783c4d9f1a"},
+    {file = "cognite_sdk-7.78.0-py3-none-any.whl", hash = "sha256:e2a9a454deedd20016ca727a98a8237f8bb2f53357d01e03804028676372833d"},
+    {file = "cognite_sdk-7.78.0.tar.gz", hash = "sha256:52d33afc0e9f2e7a723de0e585170deaed3e3810f0dd6ab39cb69ba389a6e621"},
 ]
 
 [package.dependencies]
@@ -1037,4 +1037,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<4.0"
-content-hash = "7a4318bcc06588eed27a849eb331228d514f0d963ad65ac26863d0858fc3ab9d"
+content-hash = "5a759bafe42844965b100f5a69cf0c6d47beb076bed1aad6fa3bf9b489b690c5"
